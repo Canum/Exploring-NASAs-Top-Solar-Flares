@@ -1,4 +1,4 @@
-# Exploring-NASAs-Top-Solar-Flares
+# Exploring NASAs Top Solar Flares
 
 You've been hired by a new space weather startup looking to disrupt the space weather reporting business. Your first project is to provide better data about the top 50 solar flares recorded so far than that shown by your competitor SpaceWeatherLive.com. To do this, they've pointed you to this messy HTML page from NASA (available here also) where you can get the extra data your startup is going to post in your new spiffy site.
 
